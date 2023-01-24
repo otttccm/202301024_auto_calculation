@@ -1,1 +1,1 @@
-# 202301024_auto_calculation
+# study_python
